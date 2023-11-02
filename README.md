@@ -1,3 +1,3 @@
 ﻿# patfobrien.github.io
 
-[View results](https://flatgithub.com/patfobrien/incidents-june-2023-format.json)
+[View results](https://flatgithub.com/patfobrien.github.io/incidents-june-2023-format.json)
